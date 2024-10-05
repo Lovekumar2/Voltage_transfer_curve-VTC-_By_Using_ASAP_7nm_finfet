@@ -22,12 +22,12 @@
 
 **Output Resistance (Ro) :** The small-signal resistance looking into the output of the inverter, representing how the output voltage responds to a change in output current, typically in the saturation region.
 
-| nfin | pfin | Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Frequency (f) (THz) | Output Resistance (Ro) |
-|------|------|------------------------------------|-------------------------|-----------------------|-------------------------------|-----------|----------------------|------------------------|
-| 10   | 10   | 0.35                               | 45                      | 0.5                   | 150                           | 12        | 1.2                  | 300                    |
-| 12   | 10   | 0.36                               | 50                      | 0.6                   | 130                           | 14        | 1.5                  | 250                    |
-| 15   | 12   | 0.37                               | 60                      | 0.7                   | 120                           | 16        | 1.8                  | 200                    |
-| 18   | 15   | 0.38                               | 65                      | 0.8                   | 100                           | 18        | 2.0                  | 150                    |
-| 20   | 18   | 0.40                               | 70                      | 0.9                   | 90                            | 20        | 2.2                  | 100                    |
+| nfin | pfin | Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Output Resistance (Ro) |
+|------|------|------------------------------------|-------------------------|-----------------------|-------------------------------|-----------|------------------------|
+| 10   | 10   | 0.35                               | 45                      | 0.5                   | 150                           | 12        | 300                    |
+| 12   | 10   | 0.36                               | 50                      | 0.6                   | 130                           | 14        | 250                    |
+| 15   | 12   | 0.37                               | 60                      | 0.7                   | 120                           | 16        | 200                    |
+| 18   | 15   | 0.38                               | 65                      | 0.8                   | 100                           | 18        | 150                    |
+| 20   | 18   | 0.40                               | 70                      | 0.9                   | 90                            | 20        | 100                    |
 
 
