@@ -22,12 +22,12 @@
 
 **Output Resistance (Ro) :** The small-signal resistance looking into the output of the inverter, representing how the output voltage responds to a change in output current, typically in the saturation region.
 
-| nfin | pfin | Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Output Resistance (Ro) |
-|------|------|------------------------------------|-------------------------|-----------------------|-------------------------------|-----------|------------------------|
-|    |    |                                |                       |                    |                            |         |                     |
-|    |    |                                |                       |                    |                            |         |                     |
-|    |    |                                |                       |                    |                            |         |                     |
-|    |    |                                |                       |                    |                            |         |                     |
-|    |    |                                |                       |                    |                            |         |                     |
+| W (Width)pmos | L (Length)pmos |  (W/L Ratio)pmos |  W (Width)nmos |L (Length)nmos |(W/L Ratio)nmos| Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Output Resistance (Ro) |
+|------|------|------------------------------------|-------------------------|-----------------------|-------------------------------|-----------|------------------------|--------------------|--------------|--------------------|-----------|
+|    |    |                                |                       |                    |                            |         |                     |                     |                    |                        |          |
+|    |    |                                |                       |                    |                            |         |                     |                     |                    |                           |              |
+|    |    |                                |                       |                    |                            |         |                     |                     |                    |                             |             |
+|    |    |                                |                       |                    |                            |         |                     |                     |                    |                            |         |
+|    |    |                                |                       |                    |                            |         |                     |                     |                    |                       |               |
 
 
