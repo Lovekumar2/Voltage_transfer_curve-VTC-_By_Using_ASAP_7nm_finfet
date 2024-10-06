@@ -36,4 +36,5 @@
 ![Screenshot from 2024-10-07 00-31-18](https://github.com/user-attachments/assets/0b782a1b-c7d7-4cf1-9e76-a67e3a6a9bb8)
 
 ## DC analysis
-![Screenshot from 2024-10-07 01-36-01](https://github.com/user-attachments/assets/1babf6a5-003c-485b-a64a-4010d3a72959)
+
+![Screenshot from 2024-10-07 01-39-06](https://github.com/user-attachments/assets/dce59d35-70f5-4e0e-977d-0bf9a0835ae2)
