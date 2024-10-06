@@ -31,3 +31,6 @@
 |    |    |                                |                       |                    |                            |         |                     |                     |                    |                       |               |
 
 
+## TRANSIENT ANALYSIS
+
+![Screenshot from 2024-10-07 00-23-12](https://github.com/user-attachments/assets/cff330b9-b27a-4894-b927-f7767e8cf69e)
