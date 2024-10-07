@@ -22,13 +22,30 @@
 
 **Output Resistance (Ro) :** The small-signal resistance looking into the output of the inverter, representing how the output voltage responds to a change in output current, typically in the saturation region.
 
-| W (Width)pmos | L (Length)pmos |  (W/L Ratio)pmos |  W (Width)nmos |L (Length)nmos |(W/L Ratio)nmos| Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Output Resistance (Ro) |
+| W (Width)pmos(nm) | L (Length)pmos(nm) |  (W/L Ratio)pmos |  W (Width)nmos |L (Length)nmos |(W/L Ratio)nmos| Switching Threshold Voltage (VTC) | Drain Current (Id) (uA) | Power Consumption (P) | Propagation Delay (t_pd) (ps) | Gain (Av) | Output Resistance (Ro) |
 |------|------|------------------------------------|-------------------------|-----------------------|-------------------------------|-----------|------------------------|--------------------|--------------|--------------------|-----------|
-|    |    |                                |                       |                    |                            |         |                     |                     |                    |                        |          |
-|    |    |                                |                       |                    |                            |         |                     |                     |                    |                           |              |
-|    |    |                                |                       |                    |                            |         |                     |                     |                    |                             |             |
-|    |    |                                |                       |                    |                            |         |                     |                     |                    |                            |         |
-|    |    |                                |                       |                    |                            |         |                     |                     |                    |                       |               |
+|987     | 7   |141    | 987                 |  7      | 141                           |         |                     |                     |                    |                            |        |
+|1269    | 7   |181    | 987                 |  7      | 141                           |         |                     |                     |                    |                            |        |
+|705     |   7 |100.71 | 987                 |   7     | 141                           |         |                     |                     |                    |                            |        |
+|1128    |   7 |161.1  | 987                 |   7     | 141                           |         |                     |                     |                    |                            |        |
+|1057.5  |  7  |151.07 | 987                 |   7     | 141                           |         |                     |                     |                    |                            |        |
+|1057.5  | 7   |151.07 | 916.5               |   7     | 130.9                         |        |                     |                     |                   |                              |        |           
+|1057.5  | 7   |151.07 | 846                 |   7     | 120.8                         |        |                     |                     |                   |                              |        |      
+| 987    | 7   |141    | 916.5               |   7     | 130.9                         |        |                     |                     |                   |                              |        |      
+|916.5   | 7   |130.9  | 846                 |   7     |                          |        |                     |                     |                   |                              |        |      
+|775.5   | 7   |110.7  | 916.5               |   7     |                          |        |                     |                     |                   |                              |        |      
+|1128    | 7   |161.1  | 1057.5              |   7     |                          |        |                     |                     |                   |                              |        |      
+|1057.5  | 7   |151.07 | 1057.5              |   7     |                          |        |                     |                     |                   |                              |        |      
+|1128    | 7   |161.1  | 846                 |   7     |                          |        |                     |                     |                   |                              |        |      
+|916.5   | 7   |130.9  | 916.5               |   7     |                          |        |                     |                     |                   |                              |        |     
+|916.5   | 7   |130.9  | 1057.5              |   7     |                          |        |                     |                     |                   |                              |        |      
+
+
+
+
+
+
+
 
 
 ## TRANSIENT ANALYSIS
