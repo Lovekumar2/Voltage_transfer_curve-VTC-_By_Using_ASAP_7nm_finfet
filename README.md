@@ -1,4 +1,4 @@
-# PLL-DESIGNING-BY-USING-ASAP_7nm
+# Voltage_transfer_curve-VTC-_By_Using_ASAP_7nm_finfet
 
 
 
